@@ -1,0 +1,88 @@
+============================================================
+Inference Results Summary
+============================================================
+
+Sample 0: sg-one-north_79fbe1d263285f49
+  Map: sg-one-north
+  Token: 79fbe1d263285f49
+
+Sample 1: sg-one-north_ba53dcf18a2a5582
+  Map: sg-one-north
+  Token: ba53dcf18a2a5582
+
+Sample 2: us-ma-boston_15827df7469a5704
+  Map: us-ma-boston
+  Token: 15827df7469a5704
+
+Sample 3: us-ma-boston_6e5c65545dc55105
+  Map: us-ma-boston
+  Token: 6e5c65545dc55105
+
+Sample 4: us-ma-boston_7805a8a77b205014
+  Map: us-ma-boston
+  Token: 7805a8a77b205014
+
+Sample 5: us-ma-boston_e481c11c052e5812
+  Map: us-ma-boston
+  Token: e481c11c052e5812
+
+Sample 6: us-ma-boston_e608e5c05bb453ed
+  Map: us-ma-boston
+  Token: e608e5c05bb453ed
+
+Sample 7: us-nv-las-vegas-strip_1a5840472a105fd9
+  Map: us-nv-las-vegas-strip
+  Token: 1a5840472a105fd9
+
+Sample 8: us-nv-las-vegas-strip_29726e94f0995104
+  Map: us-nv-las-vegas-strip
+  Token: 29726e94f0995104
+
+Sample 9: us-nv-las-vegas-strip_2e812a0f4b22514b
+  Map: us-nv-las-vegas-strip
+  Token: 2e812a0f4b22514b
+
+Sample 10: us-nv-las-vegas-strip_333d9f241e6552d8
+  Map: us-nv-las-vegas-strip
+  Token: 333d9f241e6552d8
+
+Sample 11: us-nv-las-vegas-strip_6919e20b83e854bf
+  Map: us-nv-las-vegas-strip
+  Token: 6919e20b83e854bf
+
+Sample 12: us-nv-las-vegas-strip_ab085887881b5ddc
+  Map: us-nv-las-vegas-strip
+  Token: ab085887881b5ddc
+
+Sample 13: us-nv-las-vegas-strip_b0162d2e25595262
+  Map: us-nv-las-vegas-strip
+  Token: b0162d2e25595262
+
+Sample 14: us-nv-las-vegas-strip_d3a715d9f4ea5693
+  Map: us-nv-las-vegas-strip
+  Token: d3a715d9f4ea5693
+
+Sample 15: us-nv-las-vegas-strip_e2b92442fd245103
+  Map: us-nv-las-vegas-strip
+  Token: e2b92442fd245103
+
+Sample 16: us-nv-las-vegas-strip_e61691926401591e
+  Map: us-nv-las-vegas-strip
+  Token: e61691926401591e
+
+Sample 17: us-pa-pittsburgh-hazelwood_06c1d7cabdb45132
+  Map: us-pa-pittsburgh-hazelwood
+  Token: 06c1d7cabdb45132
+
+Sample 18: us-pa-pittsburgh-hazelwood_22efd9dc9b1152d5
+  Map: us-pa-pittsburgh-hazelwood
+  Token: 22efd9dc9b1152d5
+
+Sample 19: us-pa-pittsburgh-hazelwood_b885f30036155ff3
+  Map: us-pa-pittsburgh-hazelwood
+  Token: b885f30036155ff3
+
+Sample 20: us-pa-pittsburgh-hazelwood_fbb145812f8d565b
+  Map: us-pa-pittsburgh-hazelwood
+  Token: fbb145812f8d565b
+

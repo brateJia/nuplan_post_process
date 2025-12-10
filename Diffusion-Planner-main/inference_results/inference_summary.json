@@ -1,0 +1,86 @@
+[
+  {
+    "sample_idx": 0,
+    "file_name": "sg-one-north_79fbe1d263285f49.npz"
+  },
+  {
+    "sample_idx": 1,
+    "file_name": "sg-one-north_ba53dcf18a2a5582.npz"
+  },
+  {
+    "sample_idx": 2,
+    "file_name": "us-ma-boston_15827df7469a5704.npz"
+  },
+  {
+    "sample_idx": 3,
+    "file_name": "us-ma-boston_6e5c65545dc55105.npz"
+  },
+  {
+    "sample_idx": 4,
+    "file_name": "us-ma-boston_7805a8a77b205014.npz"
+  },
+  {
+    "sample_idx": 5,
+    "file_name": "us-ma-boston_e481c11c052e5812.npz"
+  },
+  {
+    "sample_idx": 6,
+    "file_name": "us-ma-boston_e608e5c05bb453ed.npz"
+  },
+  {
+    "sample_idx": 7,
+    "file_name": "us-nv-las-vegas-strip_1a5840472a105fd9.npz"
+  },
+  {
+    "sample_idx": 8,
+    "file_name": "us-nv-las-vegas-strip_29726e94f0995104.npz"
+  },
+  {
+    "sample_idx": 9,
+    "file_name": "us-nv-las-vegas-strip_2e812a0f4b22514b.npz"
+  },
+  {
+    "sample_idx": 10,
+    "file_name": "us-nv-las-vegas-strip_333d9f241e6552d8.npz"
+  },
+  {
+    "sample_idx": 11,
+    "file_name": "us-nv-las-vegas-strip_6919e20b83e854bf.npz"
+  },
+  {
+    "sample_idx": 12,
+    "file_name": "us-nv-las-vegas-strip_ab085887881b5ddc.npz"
+  },
+  {
+    "sample_idx": 13,
+    "file_name": "us-nv-las-vegas-strip_b0162d2e25595262.npz"
+  },
+  {
+    "sample_idx": 14,
+    "file_name": "us-nv-las-vegas-strip_d3a715d9f4ea5693.npz"
+  },
+  {
+    "sample_idx": 15,
+    "file_name": "us-nv-las-vegas-strip_e2b92442fd245103.npz"
+  },
+  {
+    "sample_idx": 16,
+    "file_name": "us-nv-las-vegas-strip_e61691926401591e.npz"
+  },
+  {
+    "sample_idx": 17,
+    "file_name": "us-pa-pittsburgh-hazelwood_06c1d7cabdb45132.npz"
+  },
+  {
+    "sample_idx": 18,
+    "file_name": "us-pa-pittsburgh-hazelwood_22efd9dc9b1152d5.npz"
+  },
+  {
+    "sample_idx": 19,
+    "file_name": "us-pa-pittsburgh-hazelwood_b885f30036155ff3.npz"
+  },
+  {
+    "sample_idx": 20,
+    "file_name": "us-pa-pittsburgh-hazelwood_fbb145812f8d565b.npz"
+  }
+]
